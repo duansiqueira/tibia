@@ -1,7 +1,7 @@
 Esc::ExitApp
 End::
 
-send 274919mdm
+send aaaaa
 sleep 500
 send {enter}
 sleep 1000
